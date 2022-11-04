@@ -19,37 +19,9 @@ function Home2() {
               DEIXA EU ME <span className="purple"> APRESENTAR </span>
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
-              <br />
-              <br />I am fluent in classics like
-              <i>
-                <b className="purple"> C++, Javascript and Python. </b>
-              </i>
-              <br />
-              <br />
-              My field of Interest's are building new &nbsp;
-              <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Deep Learning and Natural Launguage Processing.
-                </b>
-              </i>
-              <br />
-              <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i>
+            Olá, Eu sou o <span className="purple">Jackson, </span>tenho <span className="purple"> 23 anos </span>
+            e sou estudante<br /> de ciência da computação na UFAPE (Universidade Federal do Agreste de Pernambuco), Brasil.
+            <br />Sou desenvolvedor junior e atualmente trabalhando com mobile, me encontro no mercado desde 2021.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
